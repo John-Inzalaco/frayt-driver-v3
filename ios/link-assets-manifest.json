@@ -1,0 +1,49 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/FontAwesome5Pro-Brands.ttf",
+      "sha1": "ba9322d66c19f635e15e458cc39fcb509818332f"
+    },
+    {
+      "path": "assets/fonts/FontAwesome5Pro-Light.ttf",
+      "sha1": "cc5d9f4f994c82e23f58cdde1eec8792d81633c7"
+    },
+    {
+      "path": "assets/fonts/FontAwesome5Pro-Regular.ttf",
+      "sha1": "cdec068700dc440530e5bbeff7e8bb33a01b4132"
+    },
+    {
+      "path": "assets/fonts/FontAwesome5Pro-Solid.ttf",
+      "sha1": "40b536c3667547db70ee9ca6f3c94fbc33e0cab7"
+    },
+    {
+      "path": "assets/fonts/FontAwesome5_Pro_Brands.ttf",
+      "sha1": "ba9322d66c19f635e15e458cc39fcb509818332f"
+    },
+    {
+      "path": "assets/fonts/FontAwesome5_Pro_Light.ttf",
+      "sha1": "cc5d9f4f994c82e23f58cdde1eec8792d81633c7"
+    },
+    {
+      "path": "assets/fonts/FontAwesome5_Pro_Regular.ttf",
+      "sha1": "cdec068700dc440530e5bbeff7e8bb33a01b4132"
+    },
+    {
+      "path": "assets/fonts/FontAwesome5_Pro_Solid.ttf",
+      "sha1": "40b536c3667547db70ee9ca6f3c94fbc33e0cab7"
+    },
+    {
+      "path": "assets/fonts/Poppins-Bold.ttf",
+      "sha1": "875cf0cecd647bcf22e79d633d868c1b1ec98dfa"
+    },
+    {
+      "path": "assets/fonts/Poppins-Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    },
+    {
+      "path": "assets/fonts/Poppins-SemiBold.ttf",
+      "sha1": "8a4ace9392d06bcb7f8ea2f5169b07e4c383a90d"
+    }
+  ]
+}

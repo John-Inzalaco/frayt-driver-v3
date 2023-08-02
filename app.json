@@ -1,0 +1,14 @@
+{
+  "name": "FraytDriverV3",
+  "displayName": "FraytDriverV3",
+  "plugins": [
+    [
+      "expo-gradle-ext-vars",
+      {
+        "googlePlayServicesLocationVersion": "20.0.0",
+        "appCompatVersion": "1.4.2"
+      }
+    ],
+    "react-native-background-fetch"
+  ]
+}

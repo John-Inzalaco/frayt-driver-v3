@@ -1,0 +1,14 @@
+__mocks__
+__tests__
+.bundle/
+.github/
+.husky/
+.vscode/
+android/
+assets/
+ios/
+node_modules/
+patches/
+vendor/
+tsconfig.json
+tsconfig.spec.json

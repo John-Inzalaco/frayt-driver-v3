@@ -1,0 +1,123 @@
+{
+  "strict": {
+    "text-font-family": "Poppins-Regular",
+
+    "text-label-font-size": 11,
+    "text-label-font-weight": "700"
+  },
+  "components": {
+    "Button": {
+      "meta": {},
+      "appearances": {
+        "filled": {
+          "mapping": {},
+          "variantGroups": {
+            "status": {
+              "primary": {
+                "state": {
+                  "disabled": {
+                    "borderColor": "color-basic-600",
+                    "backgroundColor": "color-basic-600",
+                    "textColor": "color-basic-1000",
+                    "iconTintColor": "color-basic-1000"
+                  }
+                }
+              }
+            },
+            "size": {
+              "tiny": {
+                "paddingVertical": 0
+              },
+              "small": {
+                "paddingVertical": 0
+              },
+              "medium": {
+                "paddingVertical": 0
+              }
+            }
+          }
+        }
+      }
+    },
+    "Card": {
+      "appearances": {
+        "outline": {
+          "mapping": {
+            "bodyPaddingVertical": 0,
+            "bodyPaddingHorizontal": 0
+          }
+        }
+      }
+    },
+    "Input": {
+      "appearances": {
+        "default": {
+          "variantGroups": {
+            "status": {
+              "basic": {
+                "state": {
+                  "disabled": {
+                    "textColor": "color-basic-600",
+                    "labelColor": "color-basic-600"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "MenuItem": {
+      "appearances": {
+        "default": {
+          "mapping": {
+            "paddingVertical": 20,
+            "titleMarginHorizontal": 0,
+            "titleFontSize": "text-subtitle-1-font-size",
+            "titleFontWeight": "text-subtitle-1-font-weight",
+            "titleFontFamily": "text-subtitle-1-font-family",
+            "iconTintColor": "color-basic-100"
+          }
+        }
+      }
+    },
+    "Toggle": {
+      "appearances": {
+        "default": {
+          "mapping": {
+            "width": 37,
+            "height": 22,
+            "borderRadius": 100,
+            "thumbWidth": 18,
+            "thumbHeight": 18,
+            "outlineWidth": 37,
+            "outlineHeight": 22,
+            "textFontSize": "text-subtitle-1-font-size",
+            "textFontWeight": "text-subtitle-1-font-weight",
+            "textFontFamily": "text-subtitle-1-font-family",
+            "iconWidth": 0,
+            "iconHeight": 0
+          },
+          "variantGroups": {
+            "status": {
+              "basic": {
+                "thumbBackgroundColor": "color-basic-100",
+                "state": {
+                  "checked": {
+                    "borderColor": "color-basic-transparent-default-border"
+                  },
+                  "active": {
+                    "borderColor": "color-basic-transparent-default-border"
+                  },
+                  "checked.active": {
+                    "borderColor": "color-basic-transparent-default-border"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

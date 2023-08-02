@@ -1,0 +1,11 @@
+.eslintrc.js
+babel.config.js
+metro.config.js
+react-native.config.js
+
+# only ignore jest configs and detox tests
+# if any unit tests end in .js, please include it accordingly
+__tests__/**/*.js
+__tests__/**/*.tsx
+__mocks__/**/*
+.detoxrc.js

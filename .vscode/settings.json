@@ -1,0 +1,10 @@
+{
+	"eslint.format.enable": true,
+	"editor.formatOnSave": true,
+	"eslint.alwaysShowStatus": true,
+	"eslint.lintTask.enable": true,
+	"prettier.enable": true,
+	"[typescriptreact]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	}
+}
